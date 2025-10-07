@@ -8,18 +8,18 @@
 
 ---
 
-## 🚀 What We Do
+## What We Do
 
 **Dzzl** combines cutting-edge algorithmic trading with a sleek, modern web presence to deliver superior day trading solutions.
 
-### 📈 Python Trading Algorithm
+### Python Trading Algorithm
 Our proprietary day trading algorithm leverages advanced Python libraries and machine learning techniques to:
 - Analyze real-time market data
 - Execute strategic trades with precision timing
 - Maximize profit potential while managing risk
 - Adapt to changing market conditions
 
-### 🌐 AstroWind Website
+### AstroWind Website
 Built on the powerful AstroWind framework, our website provides:
 - Lightning-fast performance and SEO optimization
 - Modern, responsive design
@@ -28,15 +28,16 @@ Built on the powerful AstroWind framework, our website provides:
 
 ---
 
-## 💡 Technology Stack
+## Technology Stack
 
 - **Backend**: Python (Dzzl Trader)
+- **Infrastructure**: AWS ECS
 - **Frontend**: AstroWind Framework
 - **Focus**: Day Trading & Financial Technology
 
 ---
 
-## 🎯 Mission
+## Mission
 
 Empowering traders with intelligent algorithms and intuitive web interfaces to navigate the complexities of modern financial markets.
 
