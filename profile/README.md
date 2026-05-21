@@ -10,6 +10,7 @@
 [![OpenAPI](https://custom-icon-badges.demolab.com/badge/OpenAPI-%236BA539.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)](#)
 [![NiceGUI](https://custom-icon-badges.demolab.com/badge/NiceGUI-%2341BDF5.svg?style=for-the-badge&logo=python&logoColor=white)](https://nicegui.io/)
 [![Astro](https://custom-icon-badges.demolab.com/badge/Astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
+[![Tailwind CSS](https://custom-icon-badges.demolab.com/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
 
 ---
 
