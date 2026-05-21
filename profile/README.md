@@ -1,11 +1,11 @@
 <p align="left">
-  <img src="assets/images/DzzlLogo_Straight.png" alt="DZZL Logo" width="220" />
+  <img src="../assets/images/DzzlLogo_Straight.png" alt="DZZL Logo" width="220" />
 </p>
 
 # Dzzl Trading Platform
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![AWS ECS](https://img.shields.io/badge/AWS%20ECS-232F3E?style=for-the-badge&logo=amazon-ecs&logoColor=white)](https://aws.amazon.com/ecs/)
+[![AWS ECS](https://img.shields.io/badge/AWS%20ECS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ecs/)
 [![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
 
 ---
