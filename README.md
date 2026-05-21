@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="assets/images/DzzlLogo_Straight.png" alt="Dzzl Logo" width="400"/>
-</div>
+<p align="left">
+  <img src="web/static/DzzlLogo_Straight.png" alt="DZZL Logo" width="220" />
+</p>
 
 # Dzzl Trading Platform
 
