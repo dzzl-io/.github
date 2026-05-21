@@ -4,10 +4,12 @@
 
 # Dzzl Trading Platform
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/ecs/)
-[![NiceGUI](https://img.shields.io/badge/NiceGUI-41BDF5?style=for-the-badge&logo=python&logoColor=white)](https://nicegui.io/)
-[![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
+[![Python](https://custom-icon-badges.demolab.com/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)](https://aws.amazon.com/ecs/)
+[![Docker](https://custom-icon-badges.demolab.com/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![OpenAPI](https://custom-icon-badges.demolab.com/badge/OpenAPI-%236BA539.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)](#)
+[![NiceGUI](https://custom-icon-badges.demolab.com/badge/NiceGUI-%2341BDF5.svg?style=for-the-badge&logo=python&logoColor=white)](https://nicegui.io/)
+[![Astro](https://custom-icon-badges.demolab.com/badge/Astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
 
 ---
 
