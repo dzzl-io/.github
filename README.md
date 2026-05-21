@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="web/static/DzzlLogo_Straight.png" alt="DZZL Logo" width="220" />
+  <img src="assets/images/DzzlLogo_Straight.png" alt="DZZL Logo" width="220" />
 </p>
 
 # Dzzl Trading Platform
