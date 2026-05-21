@@ -5,7 +5,8 @@
 # Dzzl Trading Platform
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![AWS ECS](https://img.shields.io/badge/AWS%20ECS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ecs/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/ecs/)
+[![NiceGUI](https://img.shields.io/badge/NiceGUI-41BDF5?style=for-the-badge&logo=python&logoColor=white)](https://nicegui.io/)
 [![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
 
 ---
@@ -14,15 +15,23 @@
 
 **Dzzl** combines cutting-edge algorithmic trading with a sleek, modern web presence to deliver superior day trading solutions.
 
-### Python Trading Algorithm
+### Trading Algorithm
 Our proprietary day trading algorithm leverages advanced Python libraries and machine learning techniques to:
-- Analyze real-time market data
-- Execute strategic trades with precision timing
-- Maximize profit potential while managing risk
-- Adapt to changing market conditions
+- Ingest and analyze continuous real-time market data streams
+- Score momentum signals with configurable precision thresholds
+- Apply NLP-powered market intelligence to surface high-conviction opportunities
+- Manage the full trade lifecycle — from signal detection through automated exit
+- Enforce disciplined daily execution limits for quality-over-quantity trading
 
-### AstroWind Website
-Built on the powerful AstroWind framework, our website provides:
+### Trading Dashboard
+A reactive, Python-native dashboard built with NiceGUI provides:
+- Live position monitoring and real-time trade status
+- Market overview with signal visibility
+- Full trade history and audit logging
+- Portfolio performance tracking
+
+### Astro Website
+Built with Astro and Tailwind CSS, our website provides:
 - Lightning-fast performance and SEO optimization
 - Modern, responsive design
 - Seamless user experience across all devices
@@ -32,9 +41,10 @@ Built on the powerful AstroWind framework, our website provides:
 
 ## Technology Stack
 
-- **Backend**: Python (Dzzl Trader)
+- **Algorithm**: Python
+- **Dashboard**: NiceGUI
 - **Infrastructure**: AWS ECS
-- **Frontend**: AstroWind Framework
+- **Website**: Astro + Tailwind CSS
 - **Focus**: Day Trading & Financial Technology
 
 ---
